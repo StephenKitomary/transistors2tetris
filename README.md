@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/stephenkitomary">
     <img src="images/Asset1.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,7 +11,8 @@
   <p align="center">
     A Physical Implementation of the Nand2Tetris  project but entirely from Transistors
     <br />
-   
+   <a href="https://stephenkitomary.github.io/transistors2tetris/" target="_blank"><strong>Visit the Website »</strong></a>
+
   </p>
 </div>
 
@@ -216,7 +217,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/TRANSISTORS.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
