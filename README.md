@@ -51,16 +51,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+At some point, you might have asked yourself, "What makes up the computers we use nowadays?" When we break down a computer into its fundamental components, we eventually arrive at microchips, which themselves are composed of even smaller elements known as transistors. Transistors are the basic building blocks of all modern computer chips. They function as tiny switches that can turn on and off, representing the binary states of 1s and 0s that underpin all digital computing. Understanding how these transistors work and how they combine to form complex circuits is crucial for grasping the essence of computer hardware. This project, titled "Transistors to Tetris," takes this exploration to the next level by building a complete ALU (Arithmetic Logic Unit) from individual transistors, demonstrating the intricate processes that lead from simple electrical components to sophisticated computing systems capable of running complex software, like the Tetris game.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
